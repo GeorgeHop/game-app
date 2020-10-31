@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888276428398",
+    "firebase_url": "https://react-native-quest-app.firebaseio.com",
+    "project_id": "react-native-quest-app",
+    "storage_bucket": "react-native-quest-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888276428398:android:d4b4a0b40d7711b390a87f",
+        "android_client_info": {
+          "package_name": "com.questappproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888276428398-g5vnfnenft3ac2dco82fdiphivlvln48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Vb9WiHp2Vv0J3cJdbuyo2MHSi5SQLzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888276428398-g5vnfnenft3ac2dco82fdiphivlvln48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
